@@ -233,8 +233,8 @@ If you found this repository useful:
 
 Feel free to connect for collaboration, opportunities, or ML discussions.
 
-LinkedIn: www.linkedin.com/in/manish-raikwar-209878264
-Email: manishraikwar.ai@gmail.com
+LinkedIn: www.linkedin.com/in/manish-raikwar-209878264        
+Email: manishraikwar.ai@gmail.com        
 ---
 
 # 🚀 “Projects build skills. Clean projects build careers.”
